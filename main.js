@@ -1,5 +1,4 @@
-//test
-//test2
+
 // console.log("Starting my script");
 
 // function addPeople(){
